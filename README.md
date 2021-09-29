@@ -1,4 +1,4 @@
-# web-scrapping
+# web-scraping
 start to learn web scrapping
 ## Modules:
 ### webbrowser
